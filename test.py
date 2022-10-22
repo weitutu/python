@@ -2,4 +2,5 @@
 
 
 print(0)
-print("hello world")
+打印（“你好世界”）
+你真该死啊
