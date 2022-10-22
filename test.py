@@ -1,5 +1,4 @@
 
-from ast import If
 
 
 print(0)
